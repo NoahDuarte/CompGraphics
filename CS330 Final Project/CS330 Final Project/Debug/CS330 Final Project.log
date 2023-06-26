@@ -1,0 +1,10 @@
+﻿  CS330 Final Project.cpp
+C:\Users\spark\source\repos\CS330 Final Project\CS330 Final Project\CS330 Final Project.cpp(258,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\spark\source\repos\CS330 Final Project\CS330 Final Project\CS330 Final Project.cpp(415,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\spark\source\repos\CS330 Final Project\CS330 Final Project\CS330 Final Project.cpp(416,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\spark\source\repos\CS330 Final Project\CS330 Final Project\CS330 Final Project.cpp(419,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\spark\source\repos\CS330 Final Project\CS330 Final Project\CS330 Final Project.cpp(420,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\spark\source\repos\CS330 Final Project\CS330 Final Project\CS330 Final Project.cpp(422,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\spark\source\repos\CS330 Final Project\CS330 Final Project\CS330 Final Project.cpp(423,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\spark\source\repos\CS330 Final Project\CS330 Final Project\CS330 Final Project.cpp(433,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  CS330 Final Project.vcxproj -> C:\Users\spark\source\repos\CS330 Final Project\Debug\CS330 Final Project.exe
